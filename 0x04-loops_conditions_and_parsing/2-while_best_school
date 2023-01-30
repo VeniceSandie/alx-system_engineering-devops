@@ -1,4 +1,4 @@
-2-while_best_school
+#!/usr/bin/env bash
 # Displays "Best School" 10 times using a while loop.
 
 count=0
@@ -8,4 +8,3 @@ do
 	echo "Best School"
 	(( count++ ))
 done
-
