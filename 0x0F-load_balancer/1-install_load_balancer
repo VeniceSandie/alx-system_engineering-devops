@@ -41,7 +41,7 @@ frontend vee-san-tech-frontend
 backend vee-san-tech-backend
     balance roundrobin
     server 97069-web-01 18.234.107.168:80 check
-    server 97069-web-02 54.82.173.163:80 check
+    server 97069-web-02 100.25.12.21:80 check
 "
 
 # shellcheck disable=SC2154
